@@ -1,2 +1,3 @@
 # Grain-Boundary-Mobility
-The matlab code called GBvelocityOrderParam.m allows you to calculate and plot the graphs of distance vs time vs temperature of grain boundaries in a bicrystal sample as calculated in the paper found in the following link: https://www.mdpi.com/2079-4991/9/4/552
+- The matlab code called GBvelocityOrderParam.m allows you to calculate and plot the graphs of distance vs time vs temperature of grain boundaries in a bicrystal sample as calculated in the article found in the following link: https://www.mdpi.com/2079-4991/9/4/552
+- The mathematica codes called FittingSigma7BothGBs and FittingSigma11BothGBs create fittings for the data and graphs created in the matlab code for Cadmium Telluride Sigma 7 and Sigma 11 grain boundaries. Also, this code allows you to calculate several parameters of the mobility of the grain boundary as shown in the article mentioned above. 
